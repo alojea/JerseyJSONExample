@@ -1,1 +1,1 @@
-Example using Jersey-Jackson
+Example Webservice using Jersey-Jackson
