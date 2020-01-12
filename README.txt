@@ -1,0 +1,1 @@
+Example using Jersey-Jackson
